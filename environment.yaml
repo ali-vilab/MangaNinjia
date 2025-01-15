@@ -2,8 +2,8 @@ name: MangaNinjia
 channels:
   - defaults
 dependencies:
-  - pip=24.2=py310h06a4308_0
-  - python=3.10.14=h955ad1f_1
+  - pip=24.2
+  - python=3.10.14
   - pip:
       - accelerate==0.31.0
       - diffusers==0.27.2
